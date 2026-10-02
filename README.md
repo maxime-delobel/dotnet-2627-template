@@ -1,8 +1,8 @@
-# Rise - [GROUPNAME]
+# Rise - Politie 04
 
 ## Team Members
 
-- [MEMBER1_NAME] - [MEMBER1_EMAIL] - [MEMBER1_GITHUB_USERNAME]
+- Senne Coppens - senne.coppens@student.hogent.be - CoppensSenne
 
 ## Technologies & Packages Used
 
