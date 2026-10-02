@@ -1,5 +1,5 @@
 echo "Installing dependencies"
-dnf install dotnet-sdk-9.0 git -y
+dnf install dotnet-sdk-10.0 git -y
 
 echo "Cloning the repo"
 git clone https://github.com/maxime-delobel/dotnet-2627-template.git
